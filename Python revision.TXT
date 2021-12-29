@@ -1,0 +1,18 @@
+
+print()-to print
+input()
+split()
+writing variables,list,if condition,for loop
+open files from everywhere,read them and write
+writing functions
+import library files and use the functions
+writing class
+
+os.system("date")-to saw current date
+os.mkdir("")-make a folder 
+os.getcwd()-to saw the path where i present
+os.path.exists()-to saw the file exist or not
+os.path.splitext()-to divide the file name and extension in two parts
+os.listdir()-how many files/folders present
+shutil.copy()-copy the file and paste the file
+shutil.move()-cut and paste the file
